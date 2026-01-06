@@ -1,9 +1,9 @@
 {
   "name": "@engineer.dilnawaz.khan/copy-cli",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "type": "module",
   "bin": {
-    "copy": "./task.js"
+    "copy": "task.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,13 @@
   },
   "engines": {
     "node": ">=20"
-  }
+  },
+  "keywords": [
+    "cli",
+    "copy",
+    "file",
+    "node",
+    "command-line"
+  ],
+  "license": "MIT"
 }
