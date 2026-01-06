@@ -158,7 +158,7 @@ npm: `@engineer.dilnawaz.khan`
 
 ---
 
-[![npm version](https://img.shields.io/npm/v/@engineer.dilnawaz.khan/copy?style=flat-square&color=brightgreen)](https://www.npmjs.com/package/@engineer.dilnawaz.khan/copy)
+[![npm version](https://img.shields.io/npm/v/@engineer.dilnawaz.khan/copy-cli?style=flat-square&color=brightgreen)](https://www.npmjs.com/package/@engineer.dilnawaz.khan/copy-cli)
 
 ---
 
