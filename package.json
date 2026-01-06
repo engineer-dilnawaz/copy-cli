@@ -1,0 +1,19 @@
+{
+  "name": "@engineer.dilnawaz.khan/copy-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "copy": "./task.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/engineer-dilnawaz/copy-cli"
+  },
+  "homepage": "https://github.com/engineer-dilnawaz/copy-cli#readme",
+  "bugs": {
+    "url": "https://github.com/engineer-dilnawaz/copy-cli/issues"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
