@@ -29,7 +29,7 @@ You can:
 Install globally using npm:
 
 ```bash
-npm install -g @engineer.dilnawaz.khan/copy
+npm install -g @engineer.dilnawaz.khan/copy-cli
 ```
 
 ---
@@ -105,7 +105,7 @@ copy v1.0.0
 Clone the repository and link it locally:
 
 ```bash
-git clone https://github.com/engineer-dilnawaz/copy.git
+git clone https://github.com/engineer-dilnawaz/copy-cli.git
 cd copy
 npm install
 npm link
