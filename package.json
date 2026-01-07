@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "type": "module",
   "bin": {
-    "copy": "task.js"
+    "copy": "copy-cli.js"
   },
   "repository": {
     "type": "git",
