@@ -1,6 +1,6 @@
 {
   "name": "@engineer.dilnawaz.khan/copy-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "bin": {
     "copy": "copy-cli.js"
